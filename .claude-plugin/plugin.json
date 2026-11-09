@@ -1,0 +1,22 @@
+{
+  "name": "reise-skill",
+  "description": "Elf kostenlose Claude-Skills auf Deutsch, die dein Reisebüro ersetzen: Ziel finden, Flüge und Hotels vergleichen, Tage planen, aus einem Instagram-Reel eine fertige Reise machen, Einreise, Packliste, Budget, Feiertage und Entschädigung bei Flugausfall. Gebucht oder bezahlt wird nie etwas selbst. Keine Reiseberatung im Rechtssinn. MIT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "homepage": "https://github.com/neubauerwilli/reise-skill",
+  "repository": "https://github.com/neubauerwilli/reise-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "deutsch",
+    "reise",
+    "urlaub",
+    "reiseplanung",
+    "fluege",
+    "fluggastrechte"
+  ]
+}

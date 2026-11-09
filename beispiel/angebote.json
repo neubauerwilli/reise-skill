@@ -1,0 +1,10 @@
+[
+  {"art": "flug", "flughafen": "BER", "tag": "2027-03-10", "standard": true, "quelle": "Google Flights", "titel": "Berlin nach Lissabon, hin und zurück, 1 Stopp", "preis": 289, "link": "https://www.google.com/travel/flights", "abgerufen": "09.11.2026 14:05"},
+  {"art": "flug", "flughafen": "BER", "tag": "2027-03-16", "quelle": "Google Flights", "titel": "Berlin nach Lissabon, hin und zurück, direkt", "preis": 241, "link": "https://www.google.com/travel/flights", "abgerufen": "09.11.2026 14:06"},
+  {"art": "flug", "flughafen": "LEJ", "tag": "2027-03-10", "quelle": "Skyscanner", "titel": "Leipzig nach Lissabon, hin und zurück, 1 Stopp", "preis": 214, "link": "https://www.skyscanner.de", "abgerufen": "09.11.2026 14:08"},
+  {"art": "flug", "flughafen": "DRS", "tag": "2027-03-11", "quelle": "Skyscanner", "titel": "Dresden nach Lissabon, hin und zurück, 1 Stopp", "preis": 176, "link": "https://www.skyscanner.de", "abgerufen": "09.11.2026 14:09"},
+  {"art": "hotel", "standard": true, "bewertung": 8.6, "quelle": "Booking.com", "titel": "Beispielhotel Baixa, 7 Nächte", "preis": 640, "link": "https://www.booking.com", "abgerufen": "09.11.2026 14:12"},
+  {"art": "hotel", "bewertung": 8.4, "quelle": "Booking.com", "titel": "Beispielhotel Alfama, 7 Nächte", "preis": 455, "link": "https://www.booking.com", "abgerufen": "09.11.2026 14:13"},
+  {"art": "hotel", "bewertung": 9.1, "quelle": "Booking.com", "titel": "Beispielpension Graça, 7 Nächte", "preis": 520, "link": "https://www.booking.com", "abgerufen": "09.11.2026 14:14"},
+  {"art": "hotel", "bewertung": 6.9, "quelle": "Booking.com", "titel": "Beispielhostel Mouraria, 7 Nächte", "preis": 190, "link": "https://www.booking.com", "abgerufen": "09.11.2026 14:15"}
+]

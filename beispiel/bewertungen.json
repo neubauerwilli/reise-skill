@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Beispielhotel Alfama",
+    "preis": 455,
+    "bewertung": 8.4,
+    "quelle": "Booking.com, Google, Tripadvisor",
+    "abgerufen": "09.11.2026 15:02",
+    "reviews": [
+      {"quelle": "Booking", "datum": "2026-10", "sterne": 4, "text": "Sehr sauber und die Lage ist zentral. Das Zimmer sieht aus wie auf den Fotos. Freundliches Personal."},
+      {"quelle": "Booking", "datum": "2026-09", "sterne": 2, "text": "Das Zimmer war kleiner als auf den Fotos und das Bad abgewohnt. Nachts sehr laut wegen der Bar nebenan."},
+      {"quelle": "Google", "datum": "2026-09", "sterne": 2, "text": "Die Fotos täuschen. Das Zimmer ist alt und die Dusche tropft. Laut bis 2 Uhr."},
+      {"quelle": "Tripadvisor", "datum": "2026-08", "sterne": 4, "text": "Great location, central, walking distance to everything. Staff was friendly and helpful."},
+      {"quelle": "Booking", "datum": "2026-08", "sterne": 3, "text": "Nicht so sauber wie erwartet, Haare im Bad. Frühstück gut."},
+      {"quelle": "Google", "datum": "2026-07", "sterne": 2, "text": "Very noisy at night, thin walls. Room looks nothing like the photos."},
+      {"quelle": "Booking", "datum": "2026-07", "sterne": 5, "text": "Tolles Hotel, zentral, ruhig im Hof, wie auf den Bildern."}
+    ]
+  },
+  {
+    "name": "Beispielpension Graça",
+    "preis": 520,
+    "bewertung": 9.1,
+    "quelle": "Booking.com, Google, Tripadvisor",
+    "abgerufen": "09.11.2026 15:10",
+    "reviews": [
+      {"quelle": "Booking", "datum": "2026-10", "sterne": 5, "text": "Wunderschön renoviert und sehr sauber. Wie beschrieben und wie auf den Fotos. Die Gastgeberin ist super freundlich."},
+      {"quelle": "Google", "datum": "2026-10", "sterne": 5, "text": "Great breakfast, spotless rooms, quiet street. Exactly as pictured."},
+      {"quelle": "Tripadvisor", "datum": "2026-09", "sterne": 5, "text": "Zentral und trotzdem ruhig. Zimmer modern, sauber. Hilfsbereit bei Fragen."},
+      {"quelle": "Booking", "datum": "2026-09", "sterne": 4, "text": "Sehr nett, gute Lage. Der Aufzug ist klein, sonst alles bestens."},
+      {"quelle": "Google", "datum": "2026-08", "sterne": 5, "text": "Clean, friendly, close to the tram. Matches the photos."},
+      {"quelle": "Booking", "datum": "2026-08", "sterne": 5, "text": "Gutes Frühstück, freundliches Personal, sauber."}
+    ]
+  },
+  {
+    "name": "Beispielhostel Mouraria",
+    "preis": 190,
+    "bewertung": 7.4,
+    "quelle": "Booking.com, Google",
+    "abgerufen": "09.11.2026 15:18",
+    "reviews": [
+      {"quelle": "Booking", "datum": "2026-10", "sterne": 2, "text": "Bettwanzen im Zimmer, Bisse am Morgen. Fotos beschönigt, alles sehr abgewohnt."},
+      {"quelle": "Google", "datum": "2026-09", "sterne": 2, "text": "Dirty bathroom, mold in the shower. The photos are misleading."},
+      {"quelle": "Booking", "datum": "2026-09", "sterne": 4, "text": "Günstig und zentral, nette Leute am Empfang."},
+      {"quelle": "Google", "datum": "2026-08", "sterne": 3, "text": "Cheap, central. Staff friendly but the room is dated and smelly."},
+      {"quelle": "Booking", "datum": "2026-07", "sterne": 2, "text": "Schmutzig und laut, Kakerlake im Flur."}
+    ]
+  }
+]

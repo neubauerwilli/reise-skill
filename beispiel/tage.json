@@ -1,0 +1,7 @@
+{
+  "stadt": "Lissabon",
+  "tage": [
+    {"titel": "Tag 1: Belém", "orte": ["Torre de Belém", "Mosteiro dos Jerónimos", "Pastéis de Belém", "MAAT Lissabon"]},
+    {"titel": "Tag 2: Alfama", "orte": ["Castelo de São Jorge", "Miradouro das Portas do Sol", "Sé de Lisboa", "Praça do Comércio"]}
+  ]
+}

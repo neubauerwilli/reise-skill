@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reise-skill",
+  "description": "Der Reise-Skill für Claude, auf Deutsch",
+  "owner": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "plugins": [
+    {
+      "name": "reise-skill",
+      "description": "Elf Claude-Skills für deine Reise: Ziel, Preise, Tage, Reel, Einreise, Packliste, Buchung, Budget, Feiertage, Entschädigung und Vor-Ort-Hilfe.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/neubauerwilli/reise-skill"
+    }
+  ]
+}
